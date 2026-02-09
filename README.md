@@ -60,6 +60,7 @@ Landing page moderna e responsiva para um produto de bebida energética fictíci
 O projeto prioriza design limpo, estética premium e adaptação total para diferentes tamanhos de tela.
 
 🔗 Acesse aqui: [Repositório no GitHub](https://github.com/PedroheinrichD/energy-drink-landing-page)
+                 [LINK WEBSITE](https://pedroheinrichd.github.io/energy-drink-landing-page/)
 
 ---
 
