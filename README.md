@@ -55,10 +55,11 @@ Me chamo Pedro Heinrich Alves Dias, tenho 19 anos e sou do interior de São Paul
 
 ### 🛠️ Projeto em Destaque
 
-📌 **Starbucks Grid Responsivo**  
-Um clone estilizado da página da Starbucks, utilizando CSS Grid. Projeto focado em responsividade, estrutura semântica e design clean.
+📌 **🧃 NEXA – Landing Page Responsiva**  
+Landing page moderna e responsiva para um produto de bebida energética fictícia (NEXA), com foco em UI/UX, hierarquia visual e experiência do usuário.
+O projeto prioriza design limpo, estética premium e adaptação total para diferentes tamanhos de tela.
 
-🔗 Acesse aqui: [Repositório no GitHub](https://github.com/PedroheinrichD/Starbucks-grid)
+🔗 Acesse aqui: [Repositório no GitHub](https://github.com/PedroheinrichD/energy-drink-landing-page)
 
 ---
 
