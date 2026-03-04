@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End | Apaixonado por Tecnologia`**
 
-Me chamo Pedro Heinrich Alves Dias, tenho 19 anos e sou do interior de São Paulo. Concluí o ensino médio em 2023 e atualmente curso Análise e Desenvolvimento de Sistemas na Unicesumar. Sou movido por desafios, criatividade e a vontade de sempre evoluir no mundo da tecnologia!
+Me chamo Pedro Heinrich Alves Dias, tenho 20 anos e sou do interior de São Paulo. Concluí o ensino médio em 2023 e atualmente curso Análise e Desenvolvimento de Sistemas na Unicesumar. Sou movido por desafios, criatividade e a vontade de sempre evoluir no mundo da tecnologia!
 
 ---
 
