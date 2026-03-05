@@ -37,6 +37,16 @@ Me chamo Pedro Heinrich Alves Dias, tenho 20 anos e sou do interior de São Paul
 Landing page moderna e responsiva para um produto de bebida energética fictícia (NEXA), com foco em UI/UX, hierarquia visual e experiência do usuário.
 O projeto prioriza design limpo, estética premium e adaptação total para diferentes tamanhos de tela.
 
+<p align="center">
+  <img width="534" height="400" alt="Image" src="https://github.com/user-attachments/assets/06bc7ae1-1a88-443e-afa7-753557977dad" />
+  <img width="534" height="400" alt="Image" src="https://github.com/user-attachments/assets/69638e86-fee4-44c1-8b7d-007c227f1f03" />
+</p>
+
+Tecnologias:
+- HTML
+- CSS
+- JavaScript
+
 🔗 Acesse aqui: [Repositório no GitHub](https://github.com/PedroheinrichD/energy-drink-landing-page)
                  [LINK WEBSITE](https://pedroheinrichd.github.io/energy-drink-landing-page/)
 
