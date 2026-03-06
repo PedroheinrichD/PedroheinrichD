@@ -47,8 +47,9 @@ Tecnologias:
 - CSS
 - JavaScript
 
-🔗 Acesse aqui: [Repositório no GitHub](https://github.com/PedroheinrichD/energy-drink-landing-page)
-                 [LINK WEBSITE](https://pedroheinrichd.github.io/energy-drink-landing-page/)
+🔗 Acesse aqui: Repositório no GitHub https://github.com/PedroheinrichD/energy-drink-landing-page
+
+LINK WEBSITE https://pedroheinrichd.github.io/energy-drink-landing-page/
 
 
 ---
